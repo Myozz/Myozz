@@ -34,8 +34,8 @@
 ### Tools
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-33DCFF?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-FFC133?style=for-the-badge)
-![Nuclei](https://img.shields.io/badge/Nmap-FBFF33?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Nmap-FF3342?style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/Nuclei-FFCA33?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF3336?style=for-the-badge)
 ### Adobe
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
