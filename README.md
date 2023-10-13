@@ -1,5 +1,25 @@
 # 💫 About Me:
-<div align="center"><br><img src="https://i.imgur.com/GURu7Yq.gif" align="center" style="width: 100%" /><br></div>  <br>  <br><br>###<div align="center">Yo 😁 Myozz desu</div>  <br>  <br><br>- 🔭 I'm studying at [KMA](https://actvn.edu.vn/)  <br>  <br><br>- 🌱 I’m currently learning Web/Application Pentest   <br>  <br><br>- ❓ Don't ask me anything, I'm just a beginner 🙃  <br>  <br><br>- ⚡ Fun fact: I always waste many hours to config HUD/UI of everything that I use 😁  <br>  <br><br><br/>  
+<div align="center">
+<img src="https://i.imgur.com/GURu7Yq.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Yo 😁 Myozz desu</div>  
+  
+
+- 🔭 I'm studying at [KMA](https://actvn.edu.vn/)  
+  
+
+- 🌱 I’m currently learning Web/Application Pentest   
+  
+
+- ❓ Don't ask me anything, I'm just a beginner 🙃  
+  
+
+- ⚡ Fun fact: I always waste many hours to config HUD/UI of everything that I use 😁  
+  
+
+<br/>  
 
 
 ## 🌐 Socials:
