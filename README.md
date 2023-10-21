@@ -13,9 +13,6 @@
   
 
 - ❓ Don't ask me anything, I'm just a beginner 🙃  
-  
-
-- ⚡ Fun fact: I always waste many hours to config HUD/UI of everything that I use 😁  
 
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yu4i7rqil4prkyfgny55qoivwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
