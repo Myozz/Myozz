@@ -17,7 +17,7 @@
 ```python
 class Myozz:
     def __init__(self):
-        self.name = "Khanh"
+        self.name = "Duy Khanh"
         self.role = "Security Researcher"
         self.languages = ["Python", "Bash", "JavaScript"]
         self.interests = ["Cybersecurity", "Vulnerability Research", "Automation"]
@@ -50,10 +50,16 @@ me.say_hi()
 
 <div align="center">
 
-[![MyoAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=Myozz&repo=MyoAPI&theme=tokyonight&hide_border=true)](https://github.com/Myozz/MyoAPI)
+### 🛡️ [MyoAPI](https://github.com/Myozz/MyoAPI)
 
-**🛡️ MyoAPI** - CVE Aggregator API với 327K+ vulnerabilities  
-`NVD` `OSV` `EPSS` `CISA KEV` → [`api.myoapi.workers.dev`](https://api.myoapi.workers.dev)
+**CVE Aggregator API** với **327K+ vulnerabilities**
+
+![NVD](https://img.shields.io/badge/NVD-302K-blue?style=flat-square)
+![OSV](https://img.shields.io/badge/OSV-22K-green?style=flat-square)
+![EPSS](https://img.shields.io/badge/EPSS-310K-orange?style=flat-square)
+![KEV](https://img.shields.io/badge/KEV-1.5K-red?style=flat-square)
+
+🔗 **Live API:** [`api.myoapi.workers.dev`](https://api.myoapi.workers.dev)
 
 </div>
 
@@ -63,11 +69,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Myozz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=Myozz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myozz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Streak](https://streak-stats.demolab.com?user=Myozz&theme=tokyonight&hide_border=true)
 
 </div>
 
