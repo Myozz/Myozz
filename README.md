@@ -90,5 +90,7 @@ me.say_hi()
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Myozz&icon=2&color=12)](https://visitcount.itsvg.in)
+![Snake animation](https://raw.githubusercontent.com/Myozz/Myozz/output/github-snake-dark.svg)
 
 </div>
+
