@@ -50,7 +50,7 @@ me.say_hi()
 
 <div align="center">
 
-[![MyoAPI](https://github-readme-stats.vercel.app/api/pin/?username=Myozz&repo=myoapi&theme=github_dark&hide_border=true)](https://github.com/Myozz/myoapi)
+[![MyoAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=Myozz&repo=MyoAPI&theme=tokyonight&hide_border=true)](https://github.com/Myozz/MyoAPI)
 
 **🛡️ MyoAPI** - CVE Aggregator API với 327K+ vulnerabilities  
 `NVD` `OSV` `EPSS` `CISA KEV` → [`api.myoapi.workers.dev`](https://api.myoapi.workers.dev)
@@ -63,11 +63,11 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Myozz&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Myozz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Myozz&theme=github-dark-blue&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Myozz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Myozz&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myozz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -86,8 +86,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Myozz/Myozz/output/github-snake-dark.svg)
 
 [![](https://visitcount.itsvg.in/api?id=Myozz&icon=2&color=12)](https://visitcount.itsvg.in)
 
